@@ -23,6 +23,7 @@
 ![VSCode](https://img.shields.io/badge/-VS_Code-007ACC?style=flat-square&logo=visual-studio-code)  
 ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman&logoColor=FFFFFF)
 ![Jupyter](https://img.shields.io/badge/-Jupyter-black?style=flat-square&logo=jupyter)
+![Zoom](https://img.shields.io/badge/-Zoom-black?style=flat-square&logo=zoom)
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=Michaudsr)
 
