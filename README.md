@@ -1,4 +1,4 @@
-### Hi there 👋
+
 
 ![Steven's github stats](https://github-readme-stats.vercel.app/api?username=Michaudsr&show_icons=true&theme=dracula)
 <br />
