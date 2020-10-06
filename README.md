@@ -1,9 +1,9 @@
-![Steven's github stats](https://github-readme-stats.vercel.app/api?username=Michaudsr&show_icons=true&theme=dracula)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Michaudsr&langs_count=8&theme=dracula)
+![Steven's github stats](https://github-readme-stats.vercel.app/api?username=Michaudsr&show_icons=true&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Michaudsr&langs_count=8&theme=dark)
 
 [![Linkedin Badge](https://img.shields.io/badge/-stevenmichaud-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/steven-michaud/)](https://www.linkedin.com/in/steven-michaud/)
 [![Gmail Badge](https://img.shields.io/badge/-michaudsr@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:michaudsr@gmail.com)](michaudsr@gmail.com)
-## ⚡ Technologies
+## Technologies
 
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
