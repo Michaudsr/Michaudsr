@@ -24,6 +24,7 @@
 ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman&logoColor=FFFFFF)
 ![Jupyter](https://img.shields.io/badge/-Jupyter-black?style=flat-square&logo=jupyter)
 ![Zoom](https://img.shields.io/badge/-Zoom-black?style=flat-square&logo=zoom)
+![Slack](https://img.shields.io/badge/-Slack-4A154B?style=flat-square&logo=slack)
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=Michaudsr)
 
