@@ -1,4 +1,5 @@
 ![Steven's github stats](https://github-readme-stats.vercel.app/api?username=Michaudsr&show_icons=true&theme=dark)
+<br />
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Michaudsr&langs_count=8&theme=dark)
 
 [![Linkedin Badge](https://img.shields.io/badge/-stevenmichaud-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/steven-michaud/)](https://www.linkedin.com/in/steven-michaud/)
