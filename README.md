@@ -3,7 +3,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-stevenmichaud-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/steven-michaud/)](https://www.linkedin.com/in/steven-michaud/)
 [![Gmail Badge](https://img.shields.io/badge/-michaudsr@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:michaudsr@gmail.com)](michaudsr@gmail.com)
 ## Technologies
- 
+  
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
 ![Django](https://img.shields.io/badge/-Django-darkgreen?style=flat-square&logo=django)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
